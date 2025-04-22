@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I´m a Full-Stack PHP developer<br>🌱 I’m currently working on Bienesonline
+⚡ I´m a Full-Stack PHP developer<br>🌱 I’m currently working Freelance full time
 
 
 ## 🌐 Socials:
